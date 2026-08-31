@@ -39,7 +39,7 @@ Junior Backend / Full-Stack Developer with strong expertise in **Node.js, TypeSc
 
 ---
 
-#### 🌦 [weather-verify](https://github.com/alpo1/weather-verify) — Forecast-Accuracy Service
+#### 🌦 [weather-verify](https://weather-verify-1.onrender.com/) — Forecast-Accuracy Service
 > **Full-stack TypeScript monorepo** (`npm workspaces`) deployed live on Render to aggregate and analyze multi-provider forecast accuracy.
 - **Architecture:** Fastify + Prisma / PostgreSQL backend paired with a React 18 + Vite + Tailwind + Recharts frontend sharing cross-tier TypeScript types.
 - **Pluggable Adapter Registry:** Normalizes multiple external weather sources (Open-Meteo, WeatherAPI, Gismeteo via Cheerio scraping) into a unified format.
