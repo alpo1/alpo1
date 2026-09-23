@@ -2,9 +2,10 @@
 ### Junior Backend / Full-Stack Developer (Node.js & TypeScript)
 📍 **Haifa, Israel** | Israeli citizen & Oleh (2023) — *No sponsorship required*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksandr-polikarpov-a4a70823b)
 [![Email](https://img.shields.io/badge/Email-aleksandr.polikarpov%40yahoo.com-D14836?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:aleksandr.polikarpov@yahoo.com)
 [![Phone](https://img.shields.io/badge/Phone-+972--54--330--1091-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+972543301091)
+[Download my Resume (PDF)](https://github.com/user-attachments/files/32554611/CV_Polikarpov_Aleksandr_10.09.pdf)
 
 ---
 
