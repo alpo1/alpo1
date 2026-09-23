@@ -2,11 +2,10 @@
 ### Junior Backend / Full-Stack Developer (Node.js & TypeScript)
 📍 **Haifa, Israel** | Israeli citizen & Oleh (2023) — *No sponsorship required*
 
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/32554611/CV_Polikarpov_Aleksandr_10.09.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksandr-polikarpov-a4a70823b)
-[![Email](https://img.shields.io/badge/Email-aleksandr.polikarpov%40yahoo.com-D14836?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:aleksandr.polikarpov@yahoo.com)
-[![Phone](https://img.shields.io/badge/Phone-+972--54--330--1091-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+972543301091)
-[Download my Resume (PDF)](https://github.com/user-attachments/files/32554611/CV_Polikarpov_Aleksandr_10.09.pdf)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksandr.polikarpov@yahoo.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-weather--verify-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://weather-verify-1.onrender.com)
 ---
 
 ### 👨‍💻 About Me
